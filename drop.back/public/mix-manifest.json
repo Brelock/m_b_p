@@ -1,0 +1,12 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/css/app.css": "/css/app.css",
+    "/js/archive-order.js": "/js/archive-order.js",
+    "/js/cart.js": "/js/cart.js",
+    "/js/cart-quantity.js": "/js/cart-quantity.js",
+    "/js/editBanner.js": "/js/editBanner.js",
+    "/js/editXml.js": "/js/editXml.js",
+    "/js/login.js": "/js/login.js",
+    "/js/product-order.js": "/js/product-order.js",
+    "/js/sortable.js": "/js/sortable.js"
+}

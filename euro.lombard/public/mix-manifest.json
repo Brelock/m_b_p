@@ -1,0 +1,11 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/css/app.css": "/css/app.css",
+    "/creditGoldForm.js": "/creditGoldForm.js",
+    "/creditSilverForm.js": "/creditSilverForm.js",
+    "/creditTechForm.js": "/creditTechForm.js",
+    "/creditWrapInputs.js": "/creditWrapInputs.js",
+    "/creditWrapScrapInputs.js": "/creditWrapScrapInputs.js",
+    "/creditsPopap.js": "/creditsPopap.js",
+    "/uiSlider.js": "/uiSlider.js"
+}

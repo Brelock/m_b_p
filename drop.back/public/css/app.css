@@ -1,0 +1,45 @@
+.help-block {
+  display: none;
+}
+
+.has-error p.label,
+.has-error label {
+  color: #ff001f !important;
+}
+
+.has-error .help-block {
+  display: block;
+  color: #ff001f !important;
+}
+
+.has-error input {
+  border: 1px solid #ff001f !important;
+}
+
+.i-form-cell-group {
+  flex-direction: column;
+  display: -ms-flexbox;
+  width: 100%;
+  display: none !important;
+}
+
+.drop-input-form.i-form-cell-group {
+  display: flex !important;
+}
+
+.i-form-cell-group.hidePayment_js {
+  display: flex !important;
+}
+
+.i-form-control {
+  width: 100% !important;
+}
+
+.hide {
+  display: none !important;
+}
+
+.hidePayment_js {
+  display: flex !important;
+}
+

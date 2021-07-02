@@ -1,0 +1,44 @@
+.help-block {
+  display: none;
+}
+
+.has-error {
+  p.label, label {
+    color: #ff001f!important;
+  }
+
+  .help-block {
+    display: block;
+    color: #ff001f!important;
+  }
+
+  input {
+    border: 1px solid #ff001f!important;
+  }
+}
+
+.i-form-cell-group {
+  -ms-flex-direction: column;
+  flex-direction: column;
+  display: -ms-flexbox;
+  width: 100%;
+  display: none!important;
+}
+.drop-input-form.i-form-cell-group{
+  display: flex!important;
+}
+.i-form-cell-group.hidePayment_js {
+  display: flex!important;
+}
+
+.i-form-control {
+  width: 100% !important;
+}
+
+.hide {
+  display: none!important;
+}
+
+.hidePayment_js {
+  display: flex!important;
+}

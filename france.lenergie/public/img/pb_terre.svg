@@ -1,0 +1,13 @@
+<svg id="Group_25725" data-name="Group 25725" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="103.638" height="70.712" viewBox="0 0 103.638 70.712">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_4143" data-name="Rectangle 4143" width="103.638" height="70.712" fill="none"/>
+    </clipPath>
+    <pattern id="pattern" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 147 101">
+      <image width="147" height="101" xlink:href="Group%2025725-image.png"/>
+    </pattern>
+  </defs>
+  <g id="Group_25724" data-name="Group 25724" clip-path="url(#clip-path)">
+    <rect id="Rectangle_4142" data-name="Rectangle 4142" width="103.638" height="70.712" fill="url(#pattern)"/>
+  </g>
+</svg>

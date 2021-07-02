@@ -1,0 +1,82 @@
+.disclosed_info {
+  margin-top: 35px;
+  margin-bottom: 35px;
+  .info_wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-left: 0;
+    margin-right: 0;
+  }
+  .disclosed_partners {
+    margin-top: 30px;
+    padding-top: 30px;
+    flex-direction: column;
+    border-top: 1px solid #000;
+    .partner_list {
+      padding-top: 20px;
+    }
+    .top_line_list {
+      justify-content: space-around;
+    }
+    .partner_logo {
+      max-width: 140px;
+      max-height: 100px;
+      img{
+        max-width: 100%;
+        width: auto;
+        max-height: 100px;
+        object-fit: contain;
+      }
+    }
+  }
+
+  .left_section {
+    display: flex;
+    flex-direction: column;
+    .disclosed_partners {
+      display: none;
+    }
+  }
+  .right_section {
+    margin-top: 40px;
+    .disclosed_partners {
+      display: flex;
+    }
+  }
+  .left_section, .right_section {
+    width: 100%;
+  }
+
+  @media (min-width: $containerWidth) { 
+    margin-top: 80px;
+    margin-bottom: 100px;
+    .left_section, .right_section {
+      width: 50%;
+    }
+    .info_wrapper {
+      flex-direction: row;
+      margin-left: -100px;
+      margin-right: 100px;
+    }
+    .left_section {
+      max-width: 600px;
+      img.cambeyrac {
+        max-height: 600px;
+      }
+      .disclosed_partners {
+        display: flex;
+        margin-top: 50px;
+        padding-top: 30px;
+      }
+    }
+    .right_section {
+      margin-right: 150px;
+      max-width: 450px;
+      margin-top: 0;
+      .disclosed_partners {
+        display: none;
+      }
+    }
+  }
+}

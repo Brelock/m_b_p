@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="99.589" height="70.438" viewBox="0 0 99.589 70.438">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Path_31942" data-name="Path 31942" d="M60.047,28.563h99.589V-41.875H60.047Z" transform="translate(-60.047 41.875)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectangle_4157" data-name="Rectangle 4157" width="104.291" height="75.487" fill="none"/>
+    </clipPath>
+    <pattern id="pattern" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 226 164">
+      <image width="226" height="164" xlink:href="Group%2026467-image.png"/>
+    </pattern>
+  </defs>
+  <g id="Group_26467" data-name="Group 26467" clip-path="url(#clip-path)">
+    <g id="Group_26466" data-name="Group 26466" transform="translate(-2.3 -2.576)">
+      <g id="Group_26465" data-name="Group 26465" clip-path="url(#clip-path-2)">
+        <rect id="Rectangle_4156" data-name="Rectangle 4156" width="104.291" height="75.487" fill="url(#pattern)"/>
+      </g>
+    </g>
+  </g>
+</svg>

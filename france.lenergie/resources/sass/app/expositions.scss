@@ -1,0 +1,71 @@
+.top_section_page.les_expositions_top {
+  @media (min-width: $containerWidth) {
+    .title_page {
+      position: relative;
+      &::before {
+        content: "";
+        position: absolute;
+        background-image: url(../img/expositions.svg);
+        background-repeat: no-repeat;
+        background-size: contain;
+        width: 299px;
+        height: 300px;
+        right: 225px;
+        top: -58px;
+      }
+    }
+    .description {
+      .desc_title {
+        margin-top: 15px;
+      }
+    }
+  }
+}
+
+.disclosed_info.les_expositions_disclosed {
+  .mobile_img {
+    display: block;
+    height: 180px;
+    width: 180px;
+    margin: 0 auto 30px;
+  }
+  .right_section {
+    margin-top: 0;
+    .btn_lare_la_suite {
+      display: flex;
+    }
+  }
+  .left_section {
+    .btn_lare_la_suite {
+      display: none;
+    }
+  }
+  @media (min-width: $containerWidth) {
+    .mobile_img {
+      display: none;
+    }
+    .wrap_visites {
+      max-width: 446px;
+      margin-top: 0;
+    }
+    .info_wrapper {
+      flex-direction: row;
+      margin-left: 50px;
+      margin-right: 0;
+    }
+    .les_partners {
+      margin-left: 60px;
+      margin-right: 100px;
+    }
+    .right_section {
+      .btn_lare_la_suite {
+        display: none;
+      }
+    }
+    .left_section {
+      .btn_lare_la_suite {
+        display: flex;
+      }
+    }
+  }
+}

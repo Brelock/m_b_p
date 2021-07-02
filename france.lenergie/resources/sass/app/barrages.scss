@@ -1,0 +1,188 @@
+.top_section_page.barrages {
+  @media (min-width: $containerWidth) {
+    .title_page {
+      position: relative;
+      &::before {
+        content: "";
+        position: absolute;
+        background-repeat: no-repeat;
+        background-size: contain;
+        width: 299px;
+        height: 300px;
+        right: -52px;
+        top: 0;
+      }
+    }
+    .description {
+      .desc_title {
+        margin-top: 15px;
+      }
+    }
+  }
+}
+
+.top_section_page.barrages_montezic_top {
+  @media (min-width: $containerWidth) {
+    .title_page {
+      display: flex;
+      flex-direction: column;
+      &::before {
+        width: 300px;
+        top: 0px;
+        background-image: url(../img/people111.svg);
+      }
+    }
+  }
+}
+
+.top_section_page.barrages_lanau_top {
+  @media (min-width: $containerWidth) {
+    .title_page {
+      &::before {
+        width: 260px;
+        top: 52px;
+        background-image: url(../img/lanuPeople.svg);
+      }
+    }
+  }
+}
+
+.top_section_page.barrages_sarrans_top {
+  @media (min-width: $containerWidth) {
+    .title_page {
+      &::before {
+        background-image: url(../img/soundPeople.svg);
+      }
+    }
+  }
+}
+
+.top_section_page.barrages_castelnau_top {
+  @media (min-width: $containerWidth) {
+    .title_page{
+      &::before {
+        background-image: url(../img/castelnau.svg);
+        width: 500px;
+        height: 160px;
+        right: -340px;
+        top: 18px;
+      }
+    }
+  }
+}
+.page {
+  .top_section_page.barrages_castelnau_top {
+    @media (min-width: $pageMaxWidth) {
+      .title_page{
+        &::before {
+          background-image: url(../img/castelnau.svg);
+          width: 500px;
+          height: 160px;
+          right: -340px;
+          top: 18px;
+        }
+      }
+    }
+  }
+}
+/* ----------- disclosed ----------- */
+
+.barrages_montezic_disclosed {
+  .left_section {
+    flex-direction: column-reverse;
+  }
+  .wrap_visites {
+    max-width: 446px;
+    margin-bottom: 0;
+    margin-top: 30px;
+  }
+  .disclosed_partners {
+    width: 100%;
+  }
+  .right_section {
+    margin-top: 0;
+  }
+  @media (min-width: $containerWidth) {
+    .left_section {
+      flex-direction: column;
+      align-items: flex-end;
+    }
+    .wrap_visites {
+      margin-bottom: 100px;
+      margin-top: 0;
+    }
+    .right_section {
+      margin-right: 0;
+    }
+  }
+}
+
+.barrages_lanau_disclosed {
+  .wrap_visites {
+    margin-top: 30px;
+  }
+  .right_section {
+    margin-top: 0;
+  }
+  .top_line_list {
+    flex-wrap: wrap;
+  }
+  @media (min-width: $containerWidth) {
+    .wrap_visites {
+      padding-top: 110px;
+      max-width: 446px;
+      margin-top: 0;
+    }
+    .info_wrapper {
+      flex-direction: row-reverse;
+      margin-left: 60px;
+      margin-right: 0;
+    }
+    .les_partners {
+      margin-left: 60px;
+      margin-right: 100px;
+      margin-top: 65px;
+    }
+    .top_line_list {
+      flex-wrap: nowrap !important;
+    }
+  }
+}
+
+.barrages_sarrans_disclosed {
+  .left_section {
+    flex-direction: column-reverse;
+  }
+  .wrap_visites {
+    max-width: 446px;
+    margin-bottom: 0;
+    margin-top: 30px;
+  }
+  .disclosed_partners {
+    width: 100%;
+  }
+  .right_section {
+    margin-top: 0;
+  }
+  @media (min-width: $containerWidth) {
+    .left_section {
+      flex-direction: column;
+      align-items: flex-end;
+    }
+    .wrap_visites {
+      margin-bottom: 100px;
+      margin-top: 0;
+    }
+  }
+}
+
+.barrages_castelnau_disclosed {
+  @media (min-width: $containerWidth) {
+
+    .info_wrapper {
+      flex-direction: row-reverse;
+      margin-left: 60px;
+      margin-right: 0;
+    }
+  }
+}

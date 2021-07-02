@@ -1,0 +1,257 @@
+%!Adobe-FontList 1.22
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AdobeArabic-Regular
+FamilyName:Adobe Arabic
+StyleName:Regular
+MenuName:Adobe Arabic
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Adobe Arabic Regular
+FamilyNameNative:
+StyleNameNative:Regular
+FullNameNative:
+WritingScript:Arabic
+OutlineFileName:/Users/tahiriqbal/Documents/Work/001_2020_10 years/Prog v1/Document fonts/AdobeArabic-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:299680
+FileModTime:472375736
+NameArray:0,Mac,18,Adobe Arabic
+NameArray:0,Mac,4,Adobe Arabic Regular
+NameArray:0,Win,1,Adobe Arabic
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/tahiriqbal/Documents/Work/001_2020_10 years/Prog v1/Document fonts/AdobeFnt22.lst
+FileLength:6071
+FileModTime:645348426
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:BrandonGrotesque-Black
+FamilyName:Brandon Grotesque
+StyleName:Black
+MenuName:Brandon Grotesque
+StyleBits:0
+WeightClass:900
+WidthClass:5
+AngleClass:0
+FullName:Brandon Grotesque Black
+WritingScript:Roman
+OutlineFileName:/Users/tahiriqbal/Documents/Work/001_2020_10 years/Prog v1/Document fonts/Brandon Grotesque Black.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:154544
+FileModTime:483237078
+NameArray:0,Mac,18,Brandon Grotesque Black
+NameArray:0,Mac,4,Brandon Grotesque Black
+NameArray:0,Win,1,Brandon Grotesque
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:BrandonGrotesque-Bold
+FamilyName:Brandon Grotesque
+StyleName:Bold
+MenuName:Brandon Grotesque
+StyleBits:2
+WeightClass:450
+WidthClass:5
+AngleClass:0
+FullName:Brandon Grotesque Bold
+WritingScript:Roman
+OutlineFileName:/Users/tahiriqbal/Documents/Work/001_2020_10 years/Prog v1/Document fonts/Brandon Grotesque Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:154276
+FileModTime:483237360
+NameArray:0,Mac,18,Brandon Grotesque Bold
+NameArray:0,Mac,4,Brandon Grotesque Bold
+NameArray:0,Win,1,Brandon Grotesque
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:BrandonGrotesque-MediumItalic
+FamilyName:Brandon Grotesque
+StyleName:Medium Italic
+MenuName:Brandon Grotesque
+StyleBits:1
+WeightClass:500
+WidthClass:5
+AngleClass:1
+FullName:Brandon Grotesque Medium Italic
+WritingScript:Roman
+OutlineFileName:/Users/tahiriqbal/Documents/Work/001_2020_10 years/Prog v1/Document fonts/Brandon Grotesque Medium Italic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:145552
+FileModTime:483237270
+NameArray:0,Mac,18,Brandon Grotesque Medium Italic
+NameArray:0,Mac,4,Brandon Grotesque Medium Italic
+NameArray:0,Win,1,Brandon Grotesque
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:BrandonGrotesque-Medium
+FamilyName:Brandon Grotesque
+StyleName:Medium
+MenuName:Brandon Grotesque
+StyleBits:0
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:Brandon Grotesque Medium
+WritingScript:Roman
+OutlineFileName:/Users/tahiriqbal/Documents/Work/001_2020_10 years/Prog v1/Document fonts/Brandon Grotesque Medium.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:154172
+FileModTime:483237242
+NameArray:0,Mac,18,Brandon Grotesque Medium
+NameArray:0,Mac,4,Brandon Grotesque Medium
+NameArray:0,Win,1,Brandon Grotesque
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:BrandonGrotesque-RegularItalic
+FamilyName:Brandon Grotesque
+StyleName:Regular Italic
+MenuName:Brandon Grotesque
+StyleBits:1
+WeightClass:390
+WidthClass:5
+AngleClass:1
+FullName:Brandon Grotesque Regular Italic
+WritingScript:Roman
+OutlineFileName:/Users/tahiriqbal/Documents/Work/001_2020_10 years/Prog v1/Document fonts/Brandon Grotesque Regular Italic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:145212
+FileModTime:483237218
+NameArray:0,Mac,18,Brandon Grotesque Regular Italic
+NameArray:0,Mac,4,Brandon Grotesque Regular Italic
+NameArray:0,Win,1,Brandon Grotesque
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:BrandonGrotesque-Regular
+FamilyName:Brandon Grotesque
+StyleName:Regular
+MenuName:Brandon Grotesque
+StyleBits:0
+WeightClass:390
+WidthClass:5
+AngleClass:0
+FullName:Brandon Grotesque Regular
+WritingScript:Roman
+OutlineFileName:/Users/tahiriqbal/Documents/Work/001_2020_10 years/Prog v1/Document fonts/Brandon Grotesque Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:150624
+FileModTime:483237188
+NameArray:0,Mac,18,Brandon Grotesque Regular
+NameArray:0,Mac,4,Brandon Grotesque Regular
+NameArray:0,Win,1,Brandon Grotesque
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:BrandonPrinted-One
+FamilyName:Brandon Printed
+StyleName:One
+MenuName:Brandon Printed
+StyleBits:0
+WeightClass:250
+WidthClass:5
+AngleClass:0
+FullName:Brandon Printed One
+WritingScript:Roman
+OutlineFileName:/Users/tahiriqbal/Documents/Work/001_2020_10 years/Prog v1/Document fonts/Brandon Printed One.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:388816
+FileModTime:483236042
+NameArray:0,Mac,18,Brandon Printed One
+NameArray:0,Mac,4,Brandon Printed One
+NameArray:0,Win,1,Brandon Printed
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Gotham-Bold
+FamilyName:Gotham
+StyleName:Bold
+MenuName:Gotham-Bold
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Gotham-Bold
+WritingScript:Roman
+OutlineFileName:/Users/tahiriqbal/Documents/Work/001_2020_10 years/Prog v1/Document fonts/GothaBol
+DataFormat:POSTResource
+UsesStandardEncoding:no
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:35360
+FileModTime:284798792
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:Gotham-Bold
+OutlineFileName:/Users/tahiriqbal/Documents/Work/001_2020_10 years/Prog v1/Document fonts/Gotham-Bold
+ResourceID:4161
+MacStyle:0
+FileLength:24626
+FileModTime:284798792
+%EndFont
+

@@ -1,0 +1,9 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/css/app.css": "/css/app.css",
+    "/js/site.js": "/js/site.js",
+    "/js/site/departmentsMap.js": "/js/site/departmentsMap.js",
+    "/js/requests.js": "/js/requests.js",
+    "/js/site/calculator.min.js": "/js/site/calculator.min.js",
+    "/js/site/departmentsMap.min.js": "/js/site/departmentsMap.min.js"
+}

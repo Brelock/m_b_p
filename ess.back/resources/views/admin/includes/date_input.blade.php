@@ -1,0 +1,27 @@
+<div class="form-group{{ $errors->has($name) ? ' is-invalid' : '' }} {{ isset($width) ? $width : ' col-sm-12' }}">
+
+    <div class="form-material form-material-primary">
+
+        <input id="{{ $name }}"
+               {{ isset($required) ? $required : '' }}
+               type="{{ isset($type) ? $type : 'text' }}"
+               class="form-control date-input"
+               autocomplete="off"
+               name="{{ $name }}"
+               placeholder="{{ isset($placeholder) ? $placeholder : '' }}"
+               value="{{old($name) ?: (isset($object) ? $object->getFormattedDateAttribute($name)->format('Y-m-d') : '')}}"
+                {{ isset($attributes) ? $attributes : '' }}>
+        @isset($label)
+            <label for="{{ $name }}">{!! $label !!}</label>
+        @endisset
+    </div>
+    @isset($help)
+        <div class="form-text text-muted text-right"><small>{{ $help }}</small></div>
+    @endisset
+
+
+    @if ($errors->has($name))
+        <div class="invalid-feedback">{{ $errors->first($name) }}</div>
+    @endif
+
+</div>

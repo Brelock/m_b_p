@@ -1,0 +1,1 @@
+<div class="produckt-alert-title">При заказе на сумму <span>{{ \App\Enums\OrderOptions::PRICE_TRADE_FROM_MIN_AMOUNT }} грн</span> и выше по оптовым ценам - активируется оптовая цена</div>
